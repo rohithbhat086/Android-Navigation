@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ExNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="terms">Terms</string>
+    <string name="terms_texts">Terms and conditions</string>
 </resources>
